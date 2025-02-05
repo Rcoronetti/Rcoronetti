@@ -29,6 +29,8 @@ Desenvolvedor Full Stack com foco em Java.
 - **Sequelize**
 - **Notion**
 - **Redmine**
+- **RabbitMQ**
+
 
 ## Metodologias Ágeis
 - **Scrum**
