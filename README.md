@@ -36,7 +36,7 @@ Desenvolvedor Full Stack com foco em Java.
 ## Experiência Acadêmica
 - **Pós Graduação em Desenvolvimento Full Stack**, 12/2024 a 12/2025, Pontifícia Universidade Católica do Rio Grande do Sul- PUC-RS
 - **Engenharia de Computação**, 8º período, Universidade do Oeste Catarinense - UNOESC
-- **Tecnologia em Gestão da Qualidade**, Uniasselvi
+- **Tecnologia em Gestão da Qualidade**, concluído, Universidade Leonardo Da Vinci, Uniasselvi
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/rafaelcoronetti/)
