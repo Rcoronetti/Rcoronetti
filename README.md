@@ -32,7 +32,7 @@ Engenheiro de Computação com sólida trajetória no desenvolvimento de softwar
 ## 🎓 Formação Acadêmica
 
 *   **MBA em Engenharia de Software** - UTFPR
-*   **Pós-Graduação em Arquitetura de Software** - PUC-RS
+*   **Pós-Graduação em Desenvolvimento Full Stack** - PUC-RS
 *   **Engenharia de Computação** - UNOESC
 
 ---
