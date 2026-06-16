@@ -25,7 +25,7 @@ Engenheiro de Computação com sólida trajetória no desenvolvimento de softwar
 ## 🚀 Projetos em Destaque
 
 *   **[Plataforma de Monitoramento de Estudos (TCC Pós-Graduação)](https://github.com/Rcoronetti/tcc-plataforma-concursos):** Sistema desenvolvido para facilitar o estudo em concursos utilizando .NET 8 e arquitetura de microsserviços.
-*   **[Case de Integração Bancária]:** Implementação de fluxos de pagamentos e conciliação financeira via APIs utilizando padrões de mensageria e alta disponibilidade.
+*   **Case de Integração Bancária - Projeto Privado:** Implementação de fluxos de pagamentos e conciliação financeira via APIs utilizando padrões de mensageria e alta disponibilidade.
 
 ---
 
